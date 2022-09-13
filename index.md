@@ -14,6 +14,16 @@ layout: default
 
 
 
+Deploy on github page:
+
+```shell
+git push -u remote-branch-name local-branch-name
+```
+
+
+
+
+
 
 
 Group Image:
